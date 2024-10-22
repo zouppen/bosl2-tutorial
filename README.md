@@ -25,7 +25,7 @@ BOSL2:ssa. Tämän vuoksi voi hämmentää, että BOSL2:n manuaalista löytyy
 * [OpenSCADin käyttöopas](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
   (jos OpenSCAD ei vielä tuttu)
 
-Mikäli samaa asiaa (kuten `cube()`) käsitellään molemmissa, unohda
+Mikäli samaa asiaa, kuten `cube()`, käsitellään molemmissa, unohda
 OpenSCADin ohjeet, koska moduuli on ylikirjoitettu BOSL2:ssa. Lue sen
 ohjeet.
 
