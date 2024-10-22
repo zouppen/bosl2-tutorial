@@ -29,6 +29,14 @@ Mikäli samaa asiaa, kuten `cube()`, käsitellään molemmissa, unohda
 OpenSCADin ohjeet, koska moduuli on ylikirjoitettu BOSL2:ssa. Lue sen
 ohjeet.
 
+### Koodaustyyli
+
+Koska tämä on oppimista toivottavasti edistävä esimerkkikokoelma,
+käytän aina aaltosulkuja enkä laita useita lauseita samalle
+riville. Käytännössä kannattaa joskus jättää aaltosulut pois, se voi
+olla luettavampaa. Oppimista kuitenkin helpottaa, kun aloittaa
+koodilla, josta käy helposti ilmi lohkoon kuuluvat asiat.
+
 ### Editorituska
 
 **Älä käytä OpenSCADin omaa editoria**. Käytä mieluummin vaikka Emacsia
@@ -57,3 +65,13 @@ sillä BOSL2:n versiolla, joka on tämän repon submoduulina.
 | Esimerkki        | OpenSCAD                   | BOSL2                       |
 |------------------|----------------------------|-----------------------------|
 | 2a: ei numeroita | [avaa](2a-pirra-pure.scad) | [avaa](2a-pirra-bosl2.scad) |
+
+### 3: Kuutiopalat
+
+Tämä on tuntuvasti monimutkaisempi esimerkki, jossa leikataan halutussa tasossa
+kappale kahteen osaan. Puhdas OpenSCAD-versio jätetään
+harjoitustehtäväksi.
+
+| Esimerkki              | OpenSCAD | BOSL2                             |
+|------------------------|----------|-----------------------------------|
+| 3a: jokaiselle jotakin | HT       | [avaa](3a-kuutiopalat-bosl2.scad) |
