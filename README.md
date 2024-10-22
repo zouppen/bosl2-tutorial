@@ -52,5 +52,8 @@ sillä BOSL2:n versiolla, joka on tämän repon submoduulina.
 | 1b: z-välkynnän esto | [avaa](1b-kotelo-pure.scad) | [avaa](1b-kotelo-bosl2.scad) |
 | 1c: putkirakenne     |                             | [avaa](1c-kotelo-bosl2.scad) |
 
-### 2: Pirra (yksinkertainen hyrrä)
+### 2: Pirra (6-kanttinen puuhyrrä)
 
+| Esimerkki        | OpenSCAD                   | BOSL2                       |
+|------------------|----------------------------|-----------------------------|
+| 2a: ei numeroita | [avaa](2a-pirra-pure.scad) | [avaa](2a-pirra-bosl2.scad) |
