@@ -19,9 +19,9 @@ intersect() {
     align(TOP) {
       cyl(h=handle_h, d=handle_d, $fn=50);
     }
-    position(BOTTOM) {
+    align(BOTTOM, inside=true) {
       tag("intersect") {
-	cyl(h=pirra_h, r1=0, r2=tan(tip_angle)*pirra_h, anchor=BOTTOM, $fn=50);
+	cyl(h=pirra_h, r1=0, r2=tan(tip_angle)*pirra_h, $fn=50);
       }
     }
   }
