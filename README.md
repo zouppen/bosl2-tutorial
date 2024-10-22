@@ -11,7 +11,7 @@ siitä, että kopioi tiedostoja pysyvästi OpenSCADin kirjastohakemistoon
 ja lisäksi mahdollistaa tietynlaisen "virtuaaliympäristön" jossa
 BOSL2:n versio pysyy haluttuna.
 
-## Hyvä tietää
+## Lähteitä opiskelun tueksi
 
 BOSL2:n wikistä löytyy kaikki **BOSL2:n** funktioiden ja moduuleiden
 parametrit. Sieltä ainakin toistaiseksi puuttuu linkit OpenSCADin
@@ -29,18 +29,14 @@ Mikäli samaa asiaa, kuten `cube()`, käsitellään molemmissa, unohda
 OpenSCADin ohjeet, koska moduuli on ylikirjoitettu BOSL2:ssa. Lue sen
 ohjeet.
 
-### Koodaustyyli
+## Työkaluista
 
-Koska tämä on oppimista toivottavasti edistävä esimerkkikokoelma,
-käytän aina aaltosulkuja enkä laita useita lauseita samalle
-riville. Käytännössä kannattaa joskus jättää aaltosulut pois, se voi
-olla luettavampaa. Oppimista kuitenkin helpottaa, kun aloittaa
-koodilla, josta käy helposti ilmi lohkoon kuuluvat asiat.
+Tietokoneelta vaaditaan *git* ja *OpenSCAD 2021.01*. Muita varsinaisia
+esitietovaatimuksia ei ole, mutta toki kokemus ohjelmoinnista
+helpottaa OpenSCADin omaksumista.
 
-### Editorituska
-
-**Älä käytä OpenSCADin omaa editoria**. Käytä mieluummin vaikka Emacsia
-tai Vimiä. Itse käytän Emacsia ja sille on
+**Älä käytä OpenSCADin omaa editoria**. Käytä mallin editointiin
+mieluummin vaikka Emacsia tai Vimiä. Itse käytän Emacsia ja sille on
 [scad-mode](https://github.com/openscad/emacs-scad-mode). Jos OpenSCAD
 kaatuu rendatessaan, joka oli varsin tuttua etenkin vanhoissa
 versioissa, menee myös editorin tallentamattomat muutokset mukana. Älä
@@ -51,6 +47,12 @@ kun tiedosto muuttuu.
 
 Seuraavat esimerkit on testattu toimiviksi OpenSCAD 2021.1:llä ja
 sillä BOSL2:n versiolla, joka on tämän repon submoduulina.
+
+Koska tämä on oppimista toivottavasti edistävä esimerkkikokoelma,
+käytän aina aaltosulkuja enkä laita useita lauseita samalle
+riville. Käytännössä kannattaa joskus jättää aaltosulut pois, se voi
+olla luettavampaa. Oppimista kuitenkin helpottaa, kun aloittaa
+koodilla, josta käy helposti ilmi lohkoon kuuluvat asiat.
 
 ### 1: Laatikko, jossa sisäreunus
 
