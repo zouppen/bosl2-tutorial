@@ -1,4 +1,4 @@
-// Esimerkki 1a: Yksinkertainen laatikko (z-välkyntää esintyy)
+// Esimerkki 2a: Pirra
 
 include <BOSL2/std.scad>
 $align_msg=false;
