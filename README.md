@@ -29,6 +29,16 @@ Mikäli samaa asiaa, kuten `cube()`, käsitellään molemmissa, unohda
 OpenSCADin ohjeet, koska moduuli on ylikirjoitettu BOSL2:ssa. Lue sen
 ohjeet.
 
+### Editorituska
+
+**Älä käytä OpenSCADin omaa editoria**. Käytä mieluummin vaikka Emacsia
+tai Vimiä. Itse käytän Emacsia ja sille on
+[scad-mode](https://github.com/openscad/emacs-scad-mode). Jos OpenSCAD
+kaatuu rendatessaan, joka oli varsin tuttua etenkin vanhoissa
+versioissa, menee myös editorin tallentamattomat muutokset mukana. Älä
+kiusaa itseäsi sillä. OpenSCAD osaa automaattisesti päivittää näkymän,
+kun tiedosto muuttuu.
+
 ## Esimerkit
 
 Seuraavat esimerkit on testattu toimiviksi OpenSCAD 2021.1:llä ja
