@@ -45,8 +45,8 @@ kun tiedosto muuttuu.
 
 ## Esimerkit
 
-Seuraavat esimerkit on testattu toimiviksi OpenSCAD 2021.1:llä ja
-sillä BOSL2:n versiolla, joka on tämän repon submoduulina.
+Seuraavat esimerkit on testattu toimiviksi OpenSCAD 2021.01:llä ja
+sillä BOSL2:n versiolla, joka on tämän repon alimoduulina.
 
 Koska tämä on oppimista toivottavasti edistävä esimerkkikokoelma,
 käytän aina aaltosulkuja enkä laita useita lauseita samalle
