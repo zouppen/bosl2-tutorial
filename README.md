@@ -17,14 +17,15 @@ BOSL2:n wikistä löytyy kaikki **BOSL2:n** funktioiden ja moduuleiden
 parametrit. Sieltä ainakin toistaiseksi puuttuu linkit OpenSCADin
 omiin funktioihin, ellei niitä ole jotenkin laajennettu
 BOSL2:ssa. Tämän vuoksi voi hämmentää, että BOSL2:n manuaalista löytyy
-`sinh` mutta ei tavallista `sin`-funktiota. Suosittelen pitämään auki nämä:
+`sinh()` mutta ei tavallista `sin()`-funktiota. Suosittelen pitämään auki nämä:
 
 * [BOSL2:n wiki](https://github.com/BelfrySCAD/BOSL2/wiki)
 * [BOSL2:n lunttilappu](https://github.com/BelfrySCAD/BOSL2/wiki/CheatSheet)
-* [OpenSCAD:n lunttilappu](https://openscad.org/cheatsheet/)
-* [OpenSCAD:n käyttöopas](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual) (jos OpenSCAD ei vielä tuttu)
+* [OpenSCADin lunttilappu](https://openscad.org/cheatsheet/)
+* [OpenSCADin käyttöopas](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
+  (jos OpenSCAD ei vielä tuttu)
 
-Mikäli samaa asiaa (kuten `cube`) käsitellään molemmissa, unohda
+Mikäli samaa asiaa (kuten `cube()`) käsitellään molemmissa, unohda
 OpenSCADin ohjeet, koska moduuli on ylikirjoitettu BOSL2:ssa. Lue sen
 ohjeet.
 
