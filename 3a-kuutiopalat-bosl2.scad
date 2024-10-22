@@ -34,7 +34,7 @@ module kurkistuskuutio() {
   }
 }
 
-multmatrix(matrix_inverse(cut_plane)) {
+multmatrix(rot_inverse(cut_plane)) {
   // Tärkeää määritellä leikkauskuvio tarpeeksi suureksi, BOSL2:n
   // oletus on 100.
   partition(cutpath="jigsaw", cutsize=cut_size, size = 500) {
