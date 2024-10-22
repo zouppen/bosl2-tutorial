@@ -15,8 +15,8 @@ BOSL2:n versio pysyy haluttuna.
 
 Laatikko, jossa sisäreunus
 
-| Esimerkki            | OpenSCAD | BOSL2 |
-|----------------------|----------|-------|
-| 1a: yksinkertainen   | [1a-kotelo-pure.scad]        |      |
-| 1b: z-välkynnän esto |         |      |
-| 1c: putkirakenne     |          |       |
+| Esimerkki            | OpenSCAD                    | BOSL2                        |
+|----------------------|-----------------------------|------------------------------|
+| 1a: yksinkertainen   | [avaa](1a-kotelo-pure.scad) | [avaa](1a-kotelo-bosl2.scad) |
+| 1b: z-välkynnän esto | [avaa](1b-kotelo-pure.scad) | [avaa](1b-kotelo-bosl2.scad) |
+| 1c: putkirakenne     |                             | [avaa](1c-kotelo-bosl2.scad) |
